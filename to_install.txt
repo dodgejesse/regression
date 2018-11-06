@@ -1,0 +1,3 @@
+conda create --name regression python=3.6 pip
+source activate regression
+pip install -r requirements.txt
